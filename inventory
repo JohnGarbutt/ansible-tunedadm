@@ -1,0 +1,19 @@
+[openhpc]
+openhpc-master-0 ansible_host=10.60.253.122
+openhpc-compute-13 ansible_host=10.60.253.83
+openhpc-compute-14 ansible_host=10.60.253.119
+openhpc-compute-4 ansible_host=10.60.253.32
+openhpc-compute-7 ansible_host=10.60.253.60
+openhpc-compute-3 ansible_host=10.60.253.26
+openhpc-compute-0 ansible_host=10.60.253.88
+openhpc-compute-1 ansible_host=10.60.253.106
+openhpc-compute-8 ansible_host=10.60.253.19
+openhpc-login-0 ansible_host=10.60.253.124
+openhpc-compute-5 ansible_host=10.60.253.121
+openhpc-compute-6 ansible_host=10.60.253.69
+openhpc-compute-11 ansible_host=10.60.253.102
+openhpc-compute-10 ansible_host=10.60.253.71
+openhpc-compute-9 ansible_host=10.60.253.118
+openhpc-compute-12 ansible_host=10.60.253.25
+openhpc-compute-2 ansible_host=10.60.253.23
+openhpc-compute-15 ansible_host=10.60.253.78
